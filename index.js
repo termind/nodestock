@@ -1,3 +1,5 @@
+// Stock Market Portfolio App by David Termin
+
 const express = require('express')
 const app = express()
 const exphbs = require('express-handlebars')
